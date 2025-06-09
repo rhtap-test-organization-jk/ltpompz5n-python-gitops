@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ltpompz5n-python-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/ltpompz5n-python-gitops
